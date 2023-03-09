@@ -1,9 +1,6 @@
-# IETF Tools Roadmap
+# IETF Tools Roadmap (Early Draft)
 
 :sparkle: View the [IETF Tools Roadmap Board](https://github.com/orgs/ietf-tools/projects/9)
-
-**NOTE** Until this comment is removed, the contents of this repository should
-be considered as an early draft.
 
 This repository is used to communicate the IETF Tools Team roadmap. 
 

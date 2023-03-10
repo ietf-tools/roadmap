@@ -1,6 +1,6 @@
 ---
 name: Discuss Roadmap
-about: How to discuss this Roadmap : Send email to tools-discuss@ietf.org
+about: How to discuss this Roadmap - Send email to tools-discuss@ietf.org
 title: "[DELETEME]: don't file an issue here"
 labels: ''
 assignees: ''

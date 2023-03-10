@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email tools-discuss@ietf.org
+    email: tools-discuss@ietf.org
+    about: Discuss the content of this roadmap
